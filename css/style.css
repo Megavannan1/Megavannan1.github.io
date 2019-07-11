@@ -1,0 +1,73 @@
+body {
+    background-color: #ffffff;
+}
+
+.nav {
+    padding: 0;
+}
+
+.section-2 {
+    background-color: #01afb8;
+}
+
+.btn {
+    border-radius: 40px;
+}
+
+.slide1,
+.slide2,
+.slide3 {
+    left: 150px;
+    top: 200px;
+}
+
+.emailInput {
+    border-radius: 5px !important;
+}
+
+.text-xs-center {
+    text-align: center;
+}
+
+.subText {
+    line-height: 40px;
+}
+
+.subscribe {
+    position: relative;
+}
+
+.subscribe input {
+    width: 100%;
+    display: inline-block;
+    font-weight: 300;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    padding: 5px 35px 5px 40px;
+}
+
+.mailIcon {
+    position: absolute;
+    top: 11px;
+    left: 10px;
+}
+
+.mailSubmit {
+    position: absolute;
+    right: 10px;
+    top: 11px;
+}
+
+.socialLinks a i {
+    color: #999;
+}
+
+.socialLinks a i:hover {
+    color: #444;
+}
+
+.footerMenu ul li:hover,
+.footer-copyright ul li:hover {
+    cursor: pointer;
+}
